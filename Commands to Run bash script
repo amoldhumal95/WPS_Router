@@ -1,0 +1,10 @@
+Clone or download the Repository.
+  git clone <URL>
+
+Navigate to folder.
+  cd wps_sec
+  ls
+use commands to execute:
+  sudo bash
+  chmod -wrx  HT.sh
+  sudo bash HT.sh  or  ./HT.sh
