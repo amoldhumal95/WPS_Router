@@ -2,7 +2,7 @@ Clone or download the Repository.
   git clone https://github.com/amoldhumal95/WPS_Router.git
 
 Navigate to folder.
-  cd wps_sec
+  cd HT
   ls
 use commands to execute:
   sudo bash
